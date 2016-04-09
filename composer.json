@@ -1,0 +1,20 @@
+{
+  "name": "rahulnbhandari/sprite_thumbnail_preview",
+  "description": "A simple but effective command-line tool for generating thumbnails of a video, and corresponding VTT file, for use within JW Player/html5 videoJS players to allow toolbar video preview.",
+  "keywords": ["video", "thumbnail", "thumbnails", "ffmpeg", "vtt", "jwplayer"],
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": “Rahul Bhandari”,
+      "email": “rahulnbhandari@gmail.com"
+      "role": “Engineer”
+    }
+  ],
+  "support": {
+    "email": “rahulnbhandari@gmail.com”,
+    "issues": "https://github.com/rahulnbhandari/sprite_thumbnail_preview/issues"
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
