@@ -2,7 +2,6 @@
 
 A simple but effective command-line tool for generating thumbnails of a video and corresponding VTT file for use within JW Player to generate the toolbar thumbnail previews.
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=acollington&url=https://github.com/amnuts/jwplayer-thumbnail-preview-generator&title=JWPlayer%20thumbnail%20preview%20generator&language=&tags=github&category=software)
 
 ### Requirements
 
