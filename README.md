@@ -1,6 +1,6 @@
-# JWPlayer thumbnail preview generator
+# Sprite generator for preview on player toolbar
 
-A simple but effective command-line tool for generating thumbnails of a video and corresponding VTT file for use within JW Player to generate the toolbar thumbnail previews.
+A simple but effective command-line tool for generating thumbnails of a video and corresponding VTT file for use within JW/VideoJS Player to generate the toolbar thumbnail previews.
 
 
 ### Requirements
